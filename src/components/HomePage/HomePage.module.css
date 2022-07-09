@@ -1,0 +1,12 @@
+.HomePage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    width: 50%;
+    height: 50vh;
+    background-color: #256EFF;
+    color: #fff;
+    font-family: 'Lobster Two', cursive;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
